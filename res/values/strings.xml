@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServerDist</string>
+    <string name="start">Start Server</string>
+    <string name="starting">Initialising…</string>
+    <string name="stop">Stop Server</string>
+    <string name="sendsignal">Send Signal</string>
+
+</resources>
